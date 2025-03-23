@@ -18,6 +18,6 @@ Salom! Men Mr-Muhridd1n, dasturchiman va open-source loyihalarda ishtirok etishn
 ## Aloqa 📫
 - [GitHub](https://github.com/Mr-Muhridd1n) ⭐
 - [Telegram](https://t.me/Mr_Muhridd1n) ✈️
-- Email: mr.muhridd1n@example.com
+- Email: msayfuddinov7@gmail.com
 
 > "Kod yozish - bu san’at, va men har kuni yangi asar yarataman!" 🎨
